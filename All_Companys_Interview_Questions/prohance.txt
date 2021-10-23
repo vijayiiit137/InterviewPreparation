@@ -1,0 +1,15 @@
+(1)Spring interceptors interview question?
+(2)Why we cannot override static methods in java?
+(3)We have a student class and containg 2 fields studenet id, name and how can we sort based on student marks natural sorting order in java?
+(4)Can we insert null in treemap?
+(5)We have a student class contains student id,name, course name. if student name are equal then we needs to sort based on course name in java?
+---------------
+
+
+Pan
+Aadhar
+Agility - Offer letter
+Agility - Pay slips      -- pending
+Agility - Increment      --
+Tavant - Reliving letter and experience
+Passport copy
