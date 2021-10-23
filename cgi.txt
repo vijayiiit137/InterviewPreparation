@@ -1,0 +1,16 @@
+CGI:
+(1)Jav8 new features?
+	group the employee whose date of month is in "January"?
+(2)How can you grioup the employess based on age or department
+(3)What is autowired?
+(4)What is react js?
+(5)Differnece between bean and autowired?
+(6)What is th use of spring framework?
+(7)Method reference in java8?
+(8)How to perform pagination in react js?
+   
+
+
+
+
+

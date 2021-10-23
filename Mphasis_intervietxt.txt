@@ -1,0 +1,21 @@
+Mphasis:
+(1)What is an object class?
+(2)what are the methods present in object class
+(3)difference between == and equals method in java?
+(4)How to make calss immutable in java?
+(5)Why string class is immutable in java?
+(6)Diffrence between arraylist and linked list in java?
+(7)What is object cloning?
+(8)What is hasmap and how it works internally
+(9)Can we have a null key in hashmap?
+(10)Can we have a duplicates keys in hasmap?
+(11)dependency injection?
+(12)What is apsect oriented programming?
+(13)What is hashcode and equals method and when to use our own implementation?
+(14)what dependency injection?
+(15)Where we will store all configurations in spring?
+(16)In how many ways we can create a thread and which one is better?
+(17)What is the purpose of multi threading?
+(18)what are wait notify and notify all methods in java?
+
+

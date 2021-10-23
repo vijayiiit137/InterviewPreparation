@@ -1,0 +1,14 @@
+Lti Company:
+(1)Difference between throw and throws keyword
+(2)Spring Mvc Flow
+(3)Difference between Strams and collection and why do have stream when you already have collections
+(4)Can we rethrow exception?
+(5)What are the java8 new features?
+(6)What is method reference?
+(7)What is functional interfcae?
+(8)What is a lambada expression?
+(9)What is the annotation that will be used to mao the request?
+(10)Can we write try and finally without catch block
+(11)What is throws keyword?
+
+

@@ -1,0 +1,17 @@
+TCS:
+(1)encapsulation and abstraction and where we can use?
+(2)Yield and join method?
+(3)Difference between fail fast and fail safe method?
+(4)Difference between comparable and comparator interface?
+(5)diff anootation in spring
+(6)what is concurrent hashmap?
+(7)React js hooks,Jfx, advantages of using react js?
+(8)spring mvc flow
+(9)what are the new features of java8?
+(10)what is lambada expression
+(11)what are conditional and ternary operators?
+(12)How do you create custom exception class?
+(13)steps to create a db connection?
+(14)Checked and unchcked exception
+(15)Prime num programme?
+
