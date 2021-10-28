@@ -1,0 +1,10 @@
+Cybage :
+Explaing project architecture ?
+Difee between callable and runnable interface ?
+what is jsx in react js?
+what is a spring roo?
+Any Experiance in orm framework?
+what are the differenet life cycles of a maven?
+How do you maintain your login and logout of a session?
+what are the rules for functional interface?
+what are the changes made to hashmap in java8?
