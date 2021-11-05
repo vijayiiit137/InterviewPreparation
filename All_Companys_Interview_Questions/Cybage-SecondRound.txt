@@ -1,0 +1,3 @@
+cybage:
+(1)Bean Life cycle
+(2)How to eliminate duplicates for user defined objects using hashset?
