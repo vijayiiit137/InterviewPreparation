@@ -1,0 +1,2 @@
+(1)Minimise the cost of deletions to obtain string having no pair of similar adjacent characters?
+(2)Smallest Substring occurring only once in a given string?
