@@ -1,0 +1,41 @@
+
+(1)Is below example of method overloading or overriding?
+
+	public String getDescription(Object obj){
+	   return obj.toString;
+	}
+	public String getDescription(String obj){
+	   return obj;
+	}
+	and
+	public void getDescription(String obj){
+	   return obj;
+	}
+
+
+(2)What will happens?
+	int x = 0;
+	boolean bExit = false;
+	Thread 1 (not synchronized)
+	x = 1; 
+	bExit = true;
+	Thread 2 (not synchronized)
+	if (bExit == true) 
+	System.out.println("x=" + x);
+	
+(3)Cyclic barrier and count down latch
+(4)frequency of each charater in string
+(5)What is multi threading?
+(6) Diff between string buffer and builder
+(7) Flow of db?
+(8)How to connect to db in java application?
+(9)Name the few annotation used in application
+(10)How abstarction and encapsulation will differ?
+(11)How to overcome dead lock condition?
+(12)Substitution principles in java?
+(13)
+
+
+
+
+
