@@ -1,0 +1,31 @@
+Question 1:
+
+Farthest from zero
+
+You are given an integer array A of size N.
+
+Task Write a program to print the farthest element from 0. If there are multiple elements, print the number with the least value.
+
+Input format
+
+The first line contains a single integer N denoting the size of the array A.
+The next line contains N integers denoting the elements of the array A.
+Output format
+
+Print the farthest element from 0.
+
+Sample input 1
+
+5
+
+1 2 3 4 5
+
+Sample Output1
+
+5
+
+Sample Input 2
+[-10, 1, 2 ,10]
+
+Sample Output2
+-10

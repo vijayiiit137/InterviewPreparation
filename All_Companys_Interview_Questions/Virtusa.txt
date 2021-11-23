@@ -1,0 +1,5 @@
+(1)Springboot with Jps
+(2)@Configuration and @enable configuration
+(3)@controller and @RestController
+(4)Diff between storedProcedure and Functions in sql server
+
