@@ -1,0 +1,7 @@
+SOAP based Web Services
+REST Web Services
+JAX-WS 
+JAX-RS
+JAXB 
+SOA 
+AJAX 

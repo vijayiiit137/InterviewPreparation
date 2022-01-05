@@ -1,0 +1,7 @@
+HTML5 
+CSS 
+JavaScript 
+JQuery 
+JSON 
+Angular 
+Ajax

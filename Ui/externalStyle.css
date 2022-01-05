@@ -1,0 +1,32 @@
+<style>
+
+body {
+	background-color:orange;
+}
+h2 {
+font-size:80px;
+color:green;
+}
+
+p {
+margin-left:400px;
+}
+
+.someclass {
+	font-size:20px;
+	color:red;
+}
+
+div {
+height:140px;
+width:300px;
+background-color:red;
+}
+
+.Otherclass {
+background-color:yellow;
+}
+
+#headertag {
+	color:aqua;
+}

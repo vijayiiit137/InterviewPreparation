@@ -1,0 +1,19 @@
+Important Topics in Html:
+(1)Heading Tags
+(2)Paragraph Tags
+(3)Anchor Tag
+(4)Image tag
+(5)Text Formatting in Html
+  <b> 		- bold
+  <i> 		- ItallicTag
+  <u> 		- Underline text
+  <strike> 	- strike text
+  <sub> 	- sunscription text
+  <sup> 	- superscript text
+  <small> 	- Saml text
+  <big> 	- Underlinee Text.
+(6)List Tag
+(7)Div Tag
+(8)Table tag
+(9)Html Forms
+(10)id and classes in Html
