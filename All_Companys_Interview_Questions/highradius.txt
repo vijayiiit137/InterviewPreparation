@@ -1,0 +1,58 @@
+leap year
+exception class hierarchy
+overloading and overriding concepts
+sorting comparable and comparator
+out of memory error fix
+access modifiers
+oops
+thread life cycle
+final with class variable method
+diff between list and set
+traversing list in java
+thread vs runnable
+start run methods  in thread
+permutation of all for the given string
+scope of bean?
+create read only list and how do u create read only list, how to add initial set of elements how do you make sure modification not happen
+instance of operator in java
+singleton design pattren 
+read write lock
+what happens if we override equals method not hashcode ?
+volatile keyword
+blocking queue implementation and explanation
+binary search
+custom impl of read only list
+Jvm memory details?
+factory design pattren
+custom implementation of read only write
+firstlevel vs second level cache hibernate
+hibernate n+1 select prob
+hashmap internally works
+remove duplicates from list ?
+optional class in java 8?
+dispatcher servlet
+scope of bean in spring
+double checked locking in singleton
+equals and hascode
+annotation used in rest?
+mem types in java?
+executor service internal implementation like invoke,invoke all?
+implementation of stack using linked list ?
+deadlock in java
+loadbalancing and application scaling
+unmodifiable list
+when a list is defined as final,is it allowed to add or remove from the list?
+serial version uid
+synchronized keyword class
+no class def found error vs class not found exception
+
+
+
+
+
+
+
+
+
+
+
