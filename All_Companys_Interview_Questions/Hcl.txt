@@ -1,0 +1,52 @@
+(1)Difference Between ArrayList and LinkedList in Java?
+(2)Method overriding code?
+(3)o/p :
+class A {
+
+A() {
+
+}
+
+
+public void checkFunctionality() {
+sysout("in class A")
+}
+
+
+}
+
+class B extends A {
+B() {
+
+}
+
+protected void checkFunctionality() {
+sysout("in class B")
+}
+
+}
+(4)Diff between Aggragation,Composition,Association in java?
+Associatiom reprsents the relationship between 2 classes.It can be uni directional(one way) or bidirectional(two way)
+unidirectional:
+Customer places orders
+Bidirectional:A is married to A,B is married to A
+Aggregation: In Aggregation the dependent object is standalone and can exist even if the object of owing class is dead.
+2 Objects Having weak relationship.one object can exist without another Object.
+Example : Car and Wheel
+		  Explanation : Wheel can be existed even if car is not available, Because this can be fit for other vehicles or other cars.
+		  Company and Employee
+		  Employee can be existed even if the company closed.
+		  Driver and car
+		  Team and Player
+		  
+Composition:In composition the object of class is owned by the object of its owing class cannot live on its own.
+Tight coupinig between 2 classes.Both Objects Cannot exist independently.
+Example : Car and Specific Engine
+Specific Engine will not be available if car is destroyed.
+Simple Rule to Remember:
+A "owns" B = Composition : B has no meaning or purpose in the system without A.
+A "uses" B = Aggregation : B exists Independently(conceptually) from A
+(5)Diff between Linked List and ArrayList in java?
+(6)Employee having salary and Age
+I inserted employeed object inside linkedList
+write code for emp salaryhaving > 500

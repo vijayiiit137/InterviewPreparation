@@ -1,0 +1,25 @@
+(1)HashMap Internal Implementation Indetail?
+(2)Reverse a Linked List In java ?
+(3)Find the missing number in the array, Better approcah asked to reduce the complexity?
+(4)Encapsulation in java ?
+(5)volatile keyword?
+(6)Diff between patch and put method?
+(7)HashSet Internal implementation indetail?
+(8)How to achieve abstraction with abstarct classes ?
+(9)concurrent hashmap
+(10)Design pattrens ?
+(11)Can we create object for interfaces with explanation?
+(12)can we create constructor for interfaces ?
+(13)Can we create the object for abstract class or can It have constructor?
+
+
+
+
+
+
+
+
+
+
+
+

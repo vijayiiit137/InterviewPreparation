@@ -1,0 +1,10 @@
+A company is repainting its office and would like to choose colors that
+work well together. They are presented with several various-priced
+color options presented in a specific order so that each color
+complements the surrounding colors. The company has a limited
+budget and would like to select the greatest number of consecutive
+colors that fit within this budget. Given the prices of the colors and the
+company's budget, what is the maximum number of colors that can be
+purchased for this repainting project?
+prices = [2, 3, 5, 1, 1, 2, 1]
+money = 7

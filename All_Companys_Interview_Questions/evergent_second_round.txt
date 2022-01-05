@@ -1,0 +1,5 @@
+(1)Class evergent is having list of employee object then how the json response look like ?
+(2)Diff between soap and web requests? 
+(3)out of memory error and stack overflow error?
+(4)Can we apply synchronization for class as well?
+(5)Applying synchronization on block or method which is effective way?

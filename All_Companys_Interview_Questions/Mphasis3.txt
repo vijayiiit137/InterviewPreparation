@@ -1,0 +1,29 @@
+(1)Junit :
+  Want to test a method with different values instead of changing every time 
+(2)initilaizer block in java?
+(3)Spring transactuons
+(4)How do you handle exceptions in spring?
+(5)Transient and volatile keyword in java?
+(6)How the front controller knows how to map the incoming request to a proper controller in spring mvc?
+(7)Below programme output
+public class Simple{
+
+public static int callCheckStatusMethod() {
+        int a = 5;
+        try {
+            a = a / 0;
+        }
+        catch(Exception e) {
+                        System.out.print("in catch block");
+            return a;
+        }
+        finally {
+            System.out.print("in finally block");
+return a + 5;
+        }
+    }
+public static void main(String args[]){
+int value = callCheckStatusMethod();
+	    System.out.print("value is:" + value);
+
+}}

@@ -1,0 +1,6 @@
+(1)Difference @requestparam vs @queryparam vs @pathvariable vs @pathparam?
+Example : 
+(2)How to write the response for get requests in springboot?
+(3)Spring mvc flow ?
+(4)Floyd Triangle ?
+(5)Date api changes in java8?

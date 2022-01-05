@@ -1,0 +1,24 @@
+(1)Class Locking
+(2)Object Locking
+(3)Is there any diffrence in bean definition for spring and springboot?
+(4)How to create singleton design pattren in java?
+(5)Predicate in java8?
+(6)Map vs flatmap in java8?
+(7)can a class extends multiple classes
+(8)Can a internaface can do, if yes How it is possible when you have default methhods?
+(9)semaphore
+(10)scopes of spring like websocket?
+(11)Difference between wait and sleep
+(12)Diff between notify and notify all?
+(13)immutable class creation ?
+(14)What is deep cloning?
+(15)Difference betwen spring and springboot?
+(16)can we overlpoad main method ? If possible How Jvm will undersatnd main method?
+(17)Fail fast and fail safeiterator in java?
+(18)When heap memory created?
+(19)What is callable interfaces in java?
+(20)Methods in calable interfaces?
+(21)concurrent modification exception in java?
+(22)Reflection Api
+
+

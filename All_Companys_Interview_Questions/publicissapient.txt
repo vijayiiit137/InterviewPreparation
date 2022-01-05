@@ -1,0 +1,43 @@
+(1)segregate 0s 1s and 2s
+(2)Difference between composition and aggregation in java and how to show in java with respect to implementation
+(3)reentrant lock in java?
+(4)Why Hashtable doesnot allow duplucates in java ?
+(5)Building construction is happening  and teneates has to be know if first floor is completed and 2nd flooer tenants has to be known if it is completed
+	Which design pattren we have to use ?
+(6)Types of threadpools in executor service in java ?
+(7)how to avoid concurrent modification exception with arraylist
+(8)How to break thread safe singleton design pattren and what are the ways to break singleton 
+	and How do you prevent?
+(9)Had 10 threads and want to keep 6 thread in running and 4 in waiting list, how to achieve ?
+(10)internal working of hashmap?
+(11)Requires to keep custom object as hashmap key and what are precautions that you will take ?
+(12)internal working of hashtable
+(13)Class A {
+
+	public void m1() {
+	
+	}
+
+	}
+	Class B extends A {
+	
+	public void m1() {
+	
+	}
+	
+	}
+	Class c extends B {
+	
+	public void m1() {
+	
+	}
+	
+	}
+	
+	A a  = new B();
+	C c = (A) a ;
+(14)How to do sorting based on name and salary of employee and how you will achieve throug java8
+
+
+
+

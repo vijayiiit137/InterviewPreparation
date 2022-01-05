@@ -1,0 +1,45 @@
+(1)Cyclic Barrier and countdown latch in java?
+(2)Java7 New Features? 
+(3)Method overriding rules in java?
+(4)code coverage tools?
+(5)Can we use try with finally(Without using catch block)
+(6)What happens if exception comes in finally block ?(Both for checked and unchecked)
+(7)What is the use of jenkins,Even we can give build in local machine ?
+(8)How do you prevent the user for not clicking submit button twice in java?
+(9)
+	A {
+		//static block
+		
+		A() {
+		
+		}
+		
+		//Initiliazer Block
+		
+	}
+	B extends A {
+	
+		//static block
+		
+		B() {
+		
+		}
+		
+		//Initiliazer Block
+	
+	}
+	Class Test {
+	
+		public static void main(String[] args) {
+		
+			B b = new B();
+			
+		}
+		
+	} 
+	
+(9)customized classes as key for hashmap in java? How do you design hashmap ?
+(10)Features of pom file?
+(11)Alternative to synchronized block in java ?
+(12)Java Thread Local?
+(13)What are the solid principles and design principles in java?

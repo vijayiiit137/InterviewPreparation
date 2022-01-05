@@ -1,0 +1,13 @@
+(1)BigInteger and BigDecimal in java?
+(2)Illegal arguement exception in java?
+(3)HashMap compute method in java?
+(4)Serialization in java?
+(5)TreeSet<StringBuffer> ts = new TreeSet<>();
+		ts.add(new StringBuffer("K"));
+		ts.add(new StringBuffer("Z"));
+		ts.add(new StringBuffer("P"));
+		ts.add(new StringBuffer("a"));
+		ts.add(new StringBuffer("S"));
+		ts.add(new StringBuffer("A"));
+		System.out.println(ts);//
+(6)Difference between classnot found exception and nocalssdeffound error in java?

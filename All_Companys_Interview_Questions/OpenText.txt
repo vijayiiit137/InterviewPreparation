@@ -1,2 +1,19 @@
 (1)Minimise the cost of deletions to obtain string having no pair of similar adjacent characters?
 (2)Smallest Substring occurring only once in a given string?
+
+SecondRound
+(1)find kth largest element in array
+(2)comparable and comparator with syntax.
+(3)Diff between delete and truncate commands?
+(4)what is concurrent modification exception?
+    --asked to remove a string from arraylist if name starts with v, asked wil it work incase of 2 threads.(Iterator Example)
+(5)Diff between truncate and delete example?
+(6) coupiling snf cohesion in java?
+ 
+
+
+
+
+
+
+

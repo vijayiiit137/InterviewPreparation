@@ -1,0 +1,51 @@
+0/P from Below Programme:
+class Box
+{​​​
+double width,height,depth;
+
+ Box(double w, double h, double d)
+{​​​
+width = w;
+height = h;
+depth = d;
+}​​​
+ // compute and return volume
+double volume()
+{​​​
+ return width * height * depth;
+}​​​
+}​​​
+class MainClass {​​​
+public static void main(String args[]) {​​​
+Box b = new Box();
+}​​​
+}​​​
+(2)What is tha application server that you are using and How do you fix if your applicaton not showing any logs in wildfly?
+(3)How do you deploy application in wildfly server?
+(4)How many objects will be created with below programme ?
+String s1 = "Iam C Expert";
+String s2 = "Iam java Expert";
+String s3 = "Iam C Expert";
+String s4 = new String("Iam C Expert");
+(5)How do you store the iamge in database?
+(6)How to iterate hashmap in java8?
+(7)For Example If you have 50 millions of records,How you will fetch all the records in sql?
+(8)immutable class in java?
+Advantages:
+Rules To create an immutable class:
+(1)Declare the class as final
+(2)Declare variables as private
+(3)Initialize the variable through constructor.
+(4)Remove the setter methods.
+(5)deep-copy of mutable object if class contains in it.
+(1)One of the advantage of immutable class is it is thread safe and its object can be shared among many threads without any fear of content of the original object getting changed.
+(2)Another advantage is you can cache immutable class object as you know contenet wont change once the object is created so no fear of dirty read.
+   This ability to cache and reuse reduces overhead.
+(3)if you ever wondered why do you see mostly String as a key for hashmap,yes,it is mostly because of sting being immutable.
+So,if you are somehow required to use your own custom object as key and want to make sure that the object is not changed by any means(like any other thread)
+making that class immutable will be an option.
+DisAdvantages:
+Any get method where you are supposed to return the immutable class object or any field that holds a reference to a mutable object
+you do need to create a new object everytime,copy the content from the original object and then return it.which results in creation of many new objects and performig deep copies which again is expensive.
+
+

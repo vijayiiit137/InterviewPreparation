@@ -1,0 +1,7 @@
+RealPage :
+
+(1) Method overriding Rules ??
+(2) Concurrent Hahsmap ??
+(3) Which collection element is thread safe ??
+(4) Difference between Snchronized hashmap and concurrent hashmap?
+(5) Does a hashmap alloes duplicate employee object?

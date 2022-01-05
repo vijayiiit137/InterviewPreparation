@@ -33,7 +33,7 @@
 (10)How abstarction and encapsulation will differ?
 (11)How to overcome dead lock condition?
 (12)Substitution principles in java?
-(13)
+
 
 
 

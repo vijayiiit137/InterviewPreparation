@@ -1,0 +1,9 @@
+(1)Shallow Copy and Deep Copy?
+(2)Do a Finally  Block Will be executed Even if exception occurs in catch block as well?
+(3)Write factorial of a number without using any external variable?
+(4)Write a palindrome programme.(Should not create more objects?)
+(5)In How manys we can create the object in java?
+(6)How do you do deep copy if you refernce of one class in another class and another class refernce in another class?
+(7)Servlet life cycle?
+(8)How to call a method after bean initilazation is complete?
+(9)Servlet life cycle?
